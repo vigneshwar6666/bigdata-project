@@ -98,7 +98,7 @@ plt.show()
 ```
 
 ## Charting Results:
-
+![](https://github.com/vigneshwar6666/bigdata-project/blob/main/bigdata%20project.png)
 
 ## References: 
 1. https://www.edureka.co/blog/spark-with-python-pyspark
